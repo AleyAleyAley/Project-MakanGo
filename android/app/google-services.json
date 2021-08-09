@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082541395603",
+    "project_id": "projectmakango2021",
+    "storage_bucket": "projectmakango2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082541395603:android:3c8e82a6505d50a7990766",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082541395603-pc3p1ebibiug5aeljo0nf6rlmn3914uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIrC8_ACELhlcuoPZ8UfGH1ag1MT69c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082541395603-pc3p1ebibiug5aeljo0nf6rlmn3914uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
