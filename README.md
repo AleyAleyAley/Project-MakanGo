@@ -1,9 +1,10 @@
 <h1 align="center">Project MakanGo</h1>
+<p align="center">
+  <img src="https://github.com/AleyAleyAley/Project-MakanGo/blob/main/assets/icon/pwapplogo.png" alt="App Icon" width="128">
+  <br>
+</p>
 
 
-# Project MakanGo
-
-A new Flutter project.
 
 ## Getting Started
 
