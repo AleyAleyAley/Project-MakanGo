@@ -8,7 +8,7 @@
 
 ## Description
 
-This project is a starting point for a Flutter application.
+<p>HC MakanGo is a food ordering application that serves to reduce queueing time and large crowds in the canteen, which is essential during the COVID-19 situation.</p>
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -18,3 +18,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## APK Download
+
+APK 
