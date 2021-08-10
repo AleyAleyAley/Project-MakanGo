@@ -1,4 +1,7 @@
-# testing2
+<h1 align="center">Project MakanGo</h1>
+
+
+# Project MakanGo
 
 A new Flutter project.
 
