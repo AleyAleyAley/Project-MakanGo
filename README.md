@@ -11,16 +11,16 @@
 HC MakanGo is a food ordering application that serves to reduce queueing time and large crowds in the canteen, which is essential during the COVID-19 situation.
 
 ## Functions (Student)
-Login: Use iEMB credentials
-Basic Food Ordering: Add order 2 weeks in advance, edit order, delete order, re-order from any orders \n
-Order History: Orders are archived 1 hour after they are due \n
-Rating for stalls: Give rating, view leaderboard \n
-Notification pushed if order is within 30 minutes \n
+<p>Login: Use iEMB credentials</p>
+<p>Basic Food Ordering: Add order 2 weeks in advance, edit order, delete order, re-order from any orders</p>
+<p>Order History: Orders are archived 1 hour after they are due</p>
+<p>Rating for stalls: Give rating, view leaderboard</p>
+<p>Notification pushed if order is within 30 minutes</p>
 
 ## Functions (Vendor)
-View orders: Summary and details \n
-Change password \n
-View leaderboard \n
+<p>View orders: Summary and details</p>
+<p>Change password</p>
+<p>View leaderboard</p>
 
 
 ## Link to showcase video
