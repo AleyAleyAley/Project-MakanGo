@@ -24,7 +24,7 @@ HC MakanGo is a food ordering application that serves to reduce queueing time an
 
 
 ## Link to showcase video
-https://tinyurl.com/ProjectMakanGoVideo
+https://tinyurl.com/ProjectMakanGoShowcase
 
 ## Link to APK File
 https://tinyurl.com/ProjectMakanGoAPK 
